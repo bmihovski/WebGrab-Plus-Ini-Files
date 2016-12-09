@@ -1,0 +1,10 @@
+*.bat
+*.exe
+*.dll
+*.dtd
+*.txt
+*.htm*
+robots/
+WebGrab++.config.xml
+chans2correct.xml
+epg.xml

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.24 -- Jan van Straaten" site="foxsports.nl">
+  <channels>
+    <channel update="i" site="foxsports.nl" site_id="1" xmltv_id="Fox Sports 1">Fox Sports 1</channel>
+    <channel update="i" site="foxsports.nl" site_id="2" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
+    <channel update="i" site="foxsports.nl" site_id="3" xmltv_id="Fox Sports 3">Fox Sports 3</channel>
+    <channel update="i" site="foxsports.nl" site_id="4" xmltv_id="Fox Sports 4">Fox Sports 4</channel>
+    <channel update="i" site="foxsports.nl" site_id="5" xmltv_id="Fox Sports 5">Fox Sports 5</channel>
+    <channel update="i" site="foxsports.nl" site_id="6" xmltv_id="Fox Sports 6">Fox Sports 6</channel>
+    <channel update="i" site="foxsports.nl" site_id="7" xmltv_id="Fox Sports 7">Fox Sports 7</channel>
+    <channel update="i" site="foxsports.nl" site_id="8" xmltv_id="Fox Sports 8">Fox Sports 8</channel>
+    <channel update="i" site="foxsports.nl" site_id="9" xmltv_id="Fox Sports 9">Fox Sports 9</channel>
+    <channel update="i" site="foxsports.nl" site_id="10" xmltv_id="Fox Sports 10">Fox Sports 10</channel>
+    <channel update="i" site="foxsports.nl" site_id="11" xmltv_id="Fox Sports 11">Fox Sports 11</channel>
+    <channel update="i" site="foxsports.nl" site_id="12" xmltv_id="Fox Sports 12">Fox Sports 12</channel>
+    <channel update="i" site="foxsports.nl" site_id="13" xmltv_id="Fox Sports 13">Fox Sports 13</channel>
+    <channel update="i" site="foxsports.nl" site_id="14" xmltv_id="Fox Sports 14">Fox Sports 14</channel>
+    <channel update="i" site="foxsports.nl" site_id="15" xmltv_id="Fox Sports 15">Fox Sports 15</channel>
+  </channels>
+</site>

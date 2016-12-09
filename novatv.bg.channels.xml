@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/47 -- Jan van Straaten" site="novatv.bg">
+  <channels>
+    <channel update="i" site="nova.bg" site_id="0" xmltv_id="Nova">Nova</channel> 
+    <channel update="i" site="nova.bg" site_id="1" xmltv_id="Diema">Diema</channel> 
+    <channel update="i" site="nova.bg" site_id="2" xmltv_id="Diema Family">Diema Family</channel> 
+    <channel update="i" site="nova.bg" site_id="3" xmltv_id="KinoNova">KinoNova</channel> 
+    <channel update="i" site="nova.bg" site_id="4" xmltv_id="Nova Sport">Nova Sport</channel> 
+    <channel update="i" site="nova.bg" site_id="5" xmltv_id="Diema Sport">Diema Sport</channel> 
+    <channel update="i" site="nova.bg" site_id="6" xmltv_id="Diema Sport 2">Diema Sport 2</channel> 
+  </channels>
+</site>
