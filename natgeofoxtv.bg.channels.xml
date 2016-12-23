@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.24 -- Jan van Straaten" site="natgeotv.com">
+  <channels>
+    <channel update="i" site="natgeofoxtv.bg" site_id="natgeo" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="natgeofoxtv.bg" site_id="fox" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="natgeofoxtv.bg" site_id="natgeowild" xmltv_id="NatGeo Wild">NatGeo Wild</channel>
+    <channel update="i" site="natgeofoxtv.bg" site_id="foxcrime" xmltv_id="Fox Crime">Fox Crime</channel>
+    <channel update="i" site="natgeofoxtv.bg" site_id="foxlife" xmltv_id="Fox Life">Fox Life</channel>
+  </channels>
+</site>
