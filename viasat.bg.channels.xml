@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.24 -- Jan van Straaten" site="natgeotv.com">
+  <channels>
+    <channel update="i" site="viasat.bg" site_id="history" xmltv_id="ViasatHistory">Viasat History</channel> 
+    <channel update="i" site="viasat.bg" site_id="explore" xmltv_id="ViasatExplore">Viasat Explore</channel> 
+    <channel update="i" site="viasat.bg" site_id="nature" xmltv_id="ViasatNature">Viasat Nature</channel> 
+    <channel update="i" site="viasat.bg" site_id="tv1000" xmltv_id="TV1000">TV1000</channel> 
+  </channels>
+</site>
