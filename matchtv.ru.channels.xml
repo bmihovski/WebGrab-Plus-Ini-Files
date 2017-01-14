@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.24 -- Jan van Straaten" site="skysports.com">
+  <channels>
+    <channel update="i" site="matchtv.ru" site_id="Матч ТВ" xmltv_id="Матч ТВ">Матч ТВ</channel>
+    <channel update="i" site="matchtv.ru" site_id="Матч! Футбол 1" xmltv_id="Матч! Футбол 1">Матч! Футбол 1</channel>
+    <channel update="i" site="matchtv.ru" site_id="Матч! Футбол 2" xmltv_id="Матч! Футбол 2">Матч! Футбол 2</channel>
+    <channel update="i" site="matchtv.ru" site_id="Матч! Футбол 3" xmltv_id="Матч! Футбол 3">Матч! Футбол 3</channel>
+    <channel update="i" site="matchtv.ru" site_id="Наш футбол" xmltv_id="Наш футбол">Наш футбол</channel>
+    <channel update="i" site="matchtv.ru" site_id="КХЛ" xmltv_id="КХЛ">КХЛ</channel>
+    <channel update="i" site="matchtv.ru" site_id="Матч! Боец" xmltv_id="Матч! Боец">Матч! Боец</channel>
+    <channel update="i" site="matchtv.ru" site_id="Конный мир" xmltv_id="Конный мир">Конный мир</channel>
+    <channel update="i" site="matchtv.ru" site_id="Матч! Арена" xmltv_id="Матч! Арена">Матч! Арена</channel>
+    <channel update="i" site="matchtv.ru" site_id="Матч! Игра" xmltv_id="Матч! Игра">Матч! Игра</channel>
+    <channel update="i" site="matchtv.ru" site_id="Матч! Наш спорт" xmltv_id="Матч! Наш спорт">Матч! Наш спорт</channel>
+    <channel update="i" site="matchtv.ru" site_id="Матч! Планета" xmltv_id="Матч! Планета">Матч! Планета</channel>
+  </channels>
+</site>
