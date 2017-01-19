@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.15 -- Jan van Straaten" site="tvplus.bg">
   <channels>
-    <channel update="i" site="tvplus.bg" site_id="2,9,16" xmltv_id="TVPlus">TV+</channel>
-    <channel update="i" site="tvplus.bg" site_id="3,10,17" xmltv_id="FPlus">F+</channel>
-    <channel update="i" site="tvplus.bg" site_id="4,11,18" xmltv_id="SportPlusHD">Sport+ HD</channel>
-    <channel update="i" site="tvplus.bg" site_id="5,12,19" xmltv_id="ComedyPlus">Comedy+</channel>
-    <channel update="i" site="tvplus.bg" site_id="6,13,20" xmltv_id="CinemaPlus">Cinema+</channel>
-    <channel update="i" site="tvplus.bg" site_id="7,14,21" xmltv_id="ActionPlus">Action+</channel>
+    <channel update="i" site="tvplus.bg" site_id="2,tvplus" xmltv_id="TV+">TV+</channel>
+    <channel update="i" site="tvplus.bg" site_id="3,fplus" xmltv_id="F+">F+</channel>
+    <channel update="i" site="tvplus.bg" site_id="4,sportplushd" xmltv_id="Sport+ HD">Sport+ HD</channel>
+    <channel update="i" site="tvplus.bg" site_id="5,comedyplus" xmltv_id="Comedy+">Comedy+</channel>
+    <channel update="i" site="tvplus.bg" site_id="6,cinemaplus" xmltv_id="Cinema+">Cinema+</channel>
+    <channel update="i" site="tvplus.bg" site_id="7,actionplus" xmltv_id="Action+">Action+</channel>
   </channels>
 </site>
