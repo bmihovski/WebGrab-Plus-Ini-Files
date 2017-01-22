@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" site="trud.bg">
+  <channels>
+    <channel update="i" site="trud.bg" site_id="vivacomarena" xmltv_id="V Arena">V Arena</channel>
+  </channels>
+</site>
