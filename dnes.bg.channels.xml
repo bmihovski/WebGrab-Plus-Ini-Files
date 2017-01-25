@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.24 -- Jan van Straaten" site="dnes.bg">
+  <channels>
+    <channel update="i" site="dnes.bg" site_id="11134" xmltv_id="Евроком">Евроком</channel>
+    <channel update="i" site="dnes.bg" site_id="11103" xmltv_id="Канал 3">Канал 3</channel>
+    <channel update="i" site="dnes.bg" site_id="11138" xmltv_id="ТВ Европа">ТВ Европа</channel>
+  </channels>
+</site>
