@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.24 -- Jan van Straaten" site="sportklub.rs">
+  <channels>
+    <channel update="i" site="sportklub.rs" site_id="2" xmltv_id="Sport Klub 2">Sport Klub 2</channel>    
+    <channel update="i" site="sportklub.rs" site_id="3" xmltv_id="Sport Klub 3">Sport Klub 3</channel>
+    <channel update="i" site="sportklub.rs" site_id="4" xmltv_id="Sport Klub 4">Sport Klub 4</channel>
+    <channel update="i" site="sportklub.rs" site_id="5" xmltv_id="Sport Klub 5">Sport Klub 5</channel>
+    <channel update="i" site="sportklub.rs" site_id="6" xmltv_id="Sport Klub 6">Sport Klub 6</channel>
+  </channels>
+</site>
