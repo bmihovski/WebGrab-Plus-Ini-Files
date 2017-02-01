@@ -113,7 +113,7 @@
   <channel update="i" site="vivacom.bg" site_id="12,6,16,26" xmltv_id="City TV">City TV</channel>
   <channel update="i" site="vivacom.bg" site_id="12,7,17,27" xmltv_id="MTV Hits">MTV Hits</channel>
   <channel update="i" site="vivacom.bg" site_id="12,8,18,28" xmltv_id="MTV Rocks">MTV Rocks</channel>
-  <channel update="i" site="vivacom.bg" site_id="12,9,19,29" xmltv_id="MTV HD">MTV HD</channel>
+  <channel update="i" site="vivacom.bg" site_id="12,9,19,29" xmltv_id="MTV HD">MTV Live HD</channel>
   <channel update="i" site="vivacom.bg" site_id="12,10,20,30" xmltv_id="MTV">MTV</channel>
   <channel update="i" site="vivacom.bg" site_id="13,1,10,19" xmltv_id="VH1">VH1</channel>
   <channel update="i" site="vivacom.bg" site_id="13,2,11,20" xmltv_id="Deluxe Lounge HD">Deluxe Lounge HD</channel>
