@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.28 -- Jan van Straaten" site="dnevnik.bg">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.28 -- Jan van Straaten" site="hbo.bg">
   <channels>
     <channel update="i" site="hbo.bg" site_id="index_hbo" xmltv_id="HBO">HBO</channel> 
     <channel update="i" site="hbo.bg" site_id="index_hbo2" xmltv_id="HBO 2">HBO 2</channel>
