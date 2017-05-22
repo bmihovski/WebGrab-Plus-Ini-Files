@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.28 -- Jan van Straaten" site="historychannel.fi">
+  <channels>
+    <channel update="i" site="historychannel.fi" site_id="history-bg" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="historychannel.fi" site_id="crime-investigation-bg" xmltv_id="C&amp;I Investigation">C&amp;I Investigation</channel>
+  </channels>
+</site>
